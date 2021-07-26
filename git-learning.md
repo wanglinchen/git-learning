@@ -10,11 +10,10 @@
 - 远程版本库：远程跟踪代码的仓库
 
 2. git config
-- 用户配置
-git config --global core.editor      配置编辑器
-git config --global user.name        配置用户名
-git config --global user.email       配置用户邮箱
-git config --global commit.template  配置commit模板
+- git config --global core.editor      配置编辑器
+- git config --global user.name        配置用户名
+- git config --global user.email       配置用户邮箱
+- git config --global commit.template  配置commit模板
 
 
 
