@@ -49,6 +49,22 @@
   git checkout dev     切换到本地dev分支  
   git checkout -b dev  创建并切换到本地dev分支  
   git branch -d dev    删除本地分支dev  
+  
+- 关联已存在的远程分支
+> git branch -u origin     将当前本地分支关联到远程origin分支  
+
+- 合并分支
+> git merge dev        把dev分支合并到当前分支  
+
+9. 标签操作
+> 给版本打上标签名字
+> 历史合并
+> 在历史版本上修改，不产生新的版本
+
+10. 远程库修改
+> git remote set-url --push [远程仓库名称] [更换的git服务器地址]      更换git服务器的地址
+> 
+
 
 
 
