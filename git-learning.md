@@ -63,7 +63,7 @@
 
 10. 远程库修改
 > git remote set-url --push [远程仓库名称] [更换的git服务器地址]      更换git服务器的地址
-> 
+> git remote add 添加远程库
 
 
 
